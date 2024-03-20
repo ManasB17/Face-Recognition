@@ -1,0 +1,11 @@
+# datas
+data/
+
+# virtual envs
+*env/
+*venv/
+
+
+
+
+
